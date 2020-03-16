@@ -1,5 +1,5 @@
 {
-  "name": "rc-field-form",
+  "name": "@anfinil/rc-field-form",
   "version": "1.1.2",
   "description": "React Form Component",
   "engines": {
