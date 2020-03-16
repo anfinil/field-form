@@ -11,14 +11,14 @@
     "react-form",
     "form"
   ],
-  "homepage": "https://github.com/react-component/field-form",
+  "homepage": "https://github.com/anfinil/field-form",
   "author": "smith3816@gmail.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-component/field-form.git"
+    "url": "https://github.com/anfinil/field-form.git"
   },
   "bugs": {
-    "url": "https://github.com/react-component/field-form/issues"
+    "url": "https://github.com/anfinil/field-form/issues"
   },
   "files": [
     "lib",
